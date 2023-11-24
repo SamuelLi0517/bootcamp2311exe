@@ -61,7 +61,7 @@ public class JavaQuest1 {
     // Reading Example
     float fnumber = -130.20f; // By default, numbers are treated as double in Java.
     // Use suffix 'f' with value to make it float.
-    double dnumber = -20.50f;
+    double dnumber = -20.50;
 
     System.out.println("The variable fnumber is " + fnumber);
     System.out.println("The variable dnumber is " + dnumber);
@@ -83,3 +83,29 @@ public class JavaQuest1 {
     System.out.println("The result is " + result);
   }
 }
+
+// Question : determine whether year n is a leap year.
+/*
+ * Definition of a leap year:
+ * If a year is divisible by 4 and not divisible by 100 or divisible by 400,
+ * then, it is a lap year.
+ */
+//int year1 = 2009;
+// Program a condition to check if it is a leap year.
+// But should Not print anything.
+//if(){
+  //System.out.println("2009 is a leap year.");
+//}
+
+
+
+
+
+
+
+
+
+
+
+
+
